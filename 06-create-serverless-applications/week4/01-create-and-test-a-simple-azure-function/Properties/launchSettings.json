@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "_01_create_and_test_a_simple_azure_function": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7018",
+      "launchBrowser": false
+    }
+  }
+}
